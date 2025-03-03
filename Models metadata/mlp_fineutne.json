@@ -1,0 +1,84 @@
+[
+    {
+        "hidden_layers": [
+            32,
+            16
+        ],
+        "alpha": 0.1,
+        "best_threshold": 0.9,
+        "confusion_matrix": "[[56831    39]\n [   15    75]]",
+        "classification_report": "              precision    recall  f1-score   support\n\n           0     0.9997    0.9993    0.9995     56870\n           1     0.6579    0.8333    0.7353        90\n\n    accuracy                         0.9991     56960\n   macro avg     0.8288    0.9163    0.8674     56960\nweighted avg     0.9992    0.9991    0.9991     56960\n"
+    },
+    {
+        "hidden_layers": [
+            32,
+            16
+        ],
+        "alpha": 0.01,
+        "best_threshold": 0.9,
+        "confusion_matrix": "[[56849    21]\n [   24    66]]",
+        "classification_report": "              precision    recall  f1-score   support\n\n           0     0.9996    0.9996    0.9996     56870\n           1     0.7586    0.7333    0.7458        90\n\n    accuracy                         0.9992     56960\n   macro avg     0.8791    0.8665    0.8727     56960\nweighted avg     0.9992    0.9992    0.9992     56960\n"
+    },
+    {
+        "hidden_layers": [
+            64,
+            32
+        ],
+        "alpha": 0.1,
+        "best_threshold": 0.8919191919191919,
+        "confusion_matrix": "[[56839    31]\n [   16    74]]",
+        "classification_report": "              precision    recall  f1-score   support\n\n           0     0.9997    0.9995    0.9996     56870\n           1     0.7048    0.8222    0.7590        90\n\n    accuracy                         0.9992     56960\n   macro avg     0.8522    0.9108    0.8793     56960\nweighted avg     0.9993    0.9992    0.9992     56960\n"
+    },
+    {
+        "hidden_layers": [
+            64,
+            32
+        ],
+        "alpha": 0.01,
+        "best_threshold": 0.9,
+        "confusion_matrix": "[[56862     8]\n [   18    72]]",
+        "classification_report": "              precision    recall  f1-score   support\n\n           0     0.9997    0.9999    0.9998     56870\n           1     0.9000    0.8000    0.8471        90\n\n    accuracy                         0.9995     56960\n   macro avg     0.9498    0.8999    0.9234     56960\nweighted avg     0.9995    0.9995    0.9995     56960\n"
+    },
+    {
+        "hidden_layers": [
+            128,
+            64
+        ],
+        "alpha": 0.1,
+        "best_threshold": 0.8919191919191919,
+        "confusion_matrix": "[[56845    25]\n [   15    75]]",
+        "classification_report": "              precision    recall  f1-score   support\n\n           0     0.9997    0.9996    0.9996     56870\n           1     0.7500    0.8333    0.7895        90\n\n    accuracy                         0.9993     56960\n   macro avg     0.8749    0.9164    0.8946     56960\nweighted avg     0.9993    0.9993    0.9993     56960\n"
+    },
+    {
+        "hidden_layers": [
+            128,
+            64
+        ],
+        "alpha": 0.01,
+        "best_threshold": 0.8676767676767676,
+        "confusion_matrix": "[[56856    14]\n [   17    73]]",
+        "classification_report": "              precision    recall  f1-score   support\n\n           0     0.9997    0.9998    0.9997     56870\n           1     0.8391    0.8111    0.8249        90\n\n    accuracy                         0.9995     56960\n   macro avg     0.9194    0.9054    0.9123     56960\nweighted avg     0.9994    0.9995    0.9995     56960\n"
+    },
+    {
+        "hidden_layers": [
+            128,
+            64,
+            32
+        ],
+        "alpha": 0.1,
+        "best_threshold": 0.9,
+        "confusion_matrix": "[[56842    28]\n [   14    76]]",
+        "classification_report": "              precision    recall  f1-score   support\n\n           0     0.9998    0.9995    0.9996     56870\n           1     0.7308    0.8444    0.7835        90\n\n    accuracy                         0.9993     56960\n   macro avg     0.8653    0.9220    0.8916     56960\nweighted avg     0.9993    0.9993    0.9993     56960\n"
+    },
+    {
+        "hidden_layers": [
+            128,
+            64,
+            32
+        ],
+        "alpha": 0.01,
+        "best_threshold": 0.9,
+        "confusion_matrix": "[[56845    25]\n [   16    74]]",
+        "classification_report": "              precision    recall  f1-score   support\n\n           0     0.9997    0.9996    0.9996     56870\n           1     0.7475    0.8222    0.7831        90\n\n    accuracy                         0.9993     56960\n   macro avg     0.8736    0.9109    0.8914     56960\nweighted avg     0.9993    0.9993    0.9993     56960\n"
+    }
+]

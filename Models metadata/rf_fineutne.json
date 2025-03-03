@@ -1,0 +1,482 @@
+[
+    {
+        "max_depth": 3,
+        "n_estimators": 5,
+        "confusion_matrix": "[[56323   547]\n [   13    77]]",
+        "classification_report": "              precision    recall  f1-score   support\n\n          -1       1.00      0.99      1.00     56870\n           1       0.12      0.86      0.22        90\n\n    accuracy                           0.99     56960\n   macro avg       0.56      0.92      0.61     56960\nweighted avg       1.00      0.99      0.99     56960\n"
+    },
+    {
+        "max_depth": 3,
+        "n_estimators": 10,
+        "confusion_matrix": "[[56518   352]\n [   13    77]]",
+        "classification_report": "              precision    recall  f1-score   support\n\n          -1       1.00      0.99      1.00     56870\n           1       0.18      0.86      0.30        90\n\n    accuracy                           0.99     56960\n   macro avg       0.59      0.92      0.65     56960\nweighted avg       1.00      0.99      1.00     56960\n"
+    },
+    {
+        "max_depth": 3,
+        "n_estimators": 15,
+        "confusion_matrix": "[[56531   339]\n [   14    76]]",
+        "classification_report": "              precision    recall  f1-score   support\n\n          -1       1.00      0.99      1.00     56870\n           1       0.18      0.84      0.30        90\n\n    accuracy                           0.99     56960\n   macro avg       0.59      0.92      0.65     56960\nweighted avg       1.00      0.99      1.00     56960\n"
+    },
+    {
+        "max_depth": 3,
+        "n_estimators": 20,
+        "confusion_matrix": "[[56514   356]\n [   13    77]]",
+        "classification_report": "              precision    recall  f1-score   support\n\n          -1       1.00      0.99      1.00     56870\n           1       0.18      0.86      0.29        90\n\n    accuracy                           0.99     56960\n   macro avg       0.59      0.92      0.65     56960\nweighted avg       1.00      0.99      1.00     56960\n"
+    },
+    {
+        "max_depth": 3,
+        "n_estimators": 25,
+        "confusion_matrix": "[[56530   340]\n [   13    77]]",
+        "classification_report": "              precision    recall  f1-score   support\n\n          -1       1.00      0.99      1.00     56870\n           1       0.18      0.86      0.30        90\n\n    accuracy                           0.99     56960\n   macro avg       0.59      0.92      0.65     56960\nweighted avg       1.00      0.99      1.00     56960\n"
+    },
+    {
+        "max_depth": 3,
+        "n_estimators": 30,
+        "confusion_matrix": "[[56489   381]\n [   13    77]]",
+        "classification_report": "              precision    recall  f1-score   support\n\n          -1       1.00      0.99      1.00     56870\n           1       0.17      0.86      0.28        90\n\n    accuracy                           0.99     56960\n   macro avg       0.58      0.92      0.64     56960\nweighted avg       1.00      0.99      1.00     56960\n"
+    },
+    {
+        "max_depth": 3,
+        "n_estimators": 35,
+        "confusion_matrix": "[[56478   392]\n [   12    78]]",
+        "classification_report": "              precision    recall  f1-score   support\n\n          -1       1.00      0.99      1.00     56870\n           1       0.17      0.87      0.28        90\n\n    accuracy                           0.99     56960\n   macro avg       0.58      0.93      0.64     56960\nweighted avg       1.00      0.99      1.00     56960\n"
+    },
+    {
+        "max_depth": 3,
+        "n_estimators": 40,
+        "confusion_matrix": "[[56469   401]\n [   12    78]]",
+        "classification_report": "              precision    recall  f1-score   support\n\n          -1       1.00      0.99      1.00     56870\n           1       0.16      0.87      0.27        90\n\n    accuracy                           0.99     56960\n   macro avg       0.58      0.93      0.64     56960\nweighted avg       1.00      0.99      1.00     56960\n"
+    },
+    {
+        "max_depth": 3,
+        "n_estimators": 45,
+        "confusion_matrix": "[[56480   390]\n [   13    77]]",
+        "classification_report": "              precision    recall  f1-score   support\n\n          -1       1.00      0.99      1.00     56870\n           1       0.16      0.86      0.28        90\n\n    accuracy                           0.99     56960\n   macro avg       0.58      0.92      0.64     56960\nweighted avg       1.00      0.99      1.00     56960\n"
+    },
+    {
+        "max_depth": 3,
+        "n_estimators": 50,
+        "confusion_matrix": "[[56479   391]\n [   13    77]]",
+        "classification_report": "              precision    recall  f1-score   support\n\n          -1       1.00      0.99      1.00     56870\n           1       0.16      0.86      0.28        90\n\n    accuracy                           0.99     56960\n   macro avg       0.58      0.92      0.64     56960\nweighted avg       1.00      0.99      1.00     56960\n"
+    },
+    {
+        "max_depth": 4,
+        "n_estimators": 5,
+        "confusion_matrix": "[[56555   315]\n [   14    76]]",
+        "classification_report": "              precision    recall  f1-score   support\n\n          -1       1.00      0.99      1.00     56870\n           1       0.19      0.84      0.32        90\n\n    accuracy                           0.99     56960\n   macro avg       0.60      0.92      0.66     56960\nweighted avg       1.00      0.99      1.00     56960\n"
+    },
+    {
+        "max_depth": 4,
+        "n_estimators": 10,
+        "confusion_matrix": "[[56550   320]\n [   14    76]]",
+        "classification_report": "              precision    recall  f1-score   support\n\n          -1       1.00      0.99      1.00     56870\n           1       0.19      0.84      0.31        90\n\n    accuracy                           0.99     56960\n   macro avg       0.60      0.92      0.65     56960\nweighted avg       1.00      0.99      1.00     56960\n"
+    },
+    {
+        "max_depth": 4,
+        "n_estimators": 15,
+        "confusion_matrix": "[[56564   306]\n [   13    77]]",
+        "classification_report": "              precision    recall  f1-score   support\n\n          -1       1.00      0.99      1.00     56870\n           1       0.20      0.86      0.33        90\n\n    accuracy                           0.99     56960\n   macro avg       0.60      0.93      0.66     56960\nweighted avg       1.00      0.99      1.00     56960\n"
+    },
+    {
+        "max_depth": 4,
+        "n_estimators": 20,
+        "confusion_matrix": "[[56580   290]\n [   13    77]]",
+        "classification_report": "              precision    recall  f1-score   support\n\n          -1       1.00      0.99      1.00     56870\n           1       0.21      0.86      0.34        90\n\n    accuracy                           0.99     56960\n   macro avg       0.60      0.93      0.67     56960\nweighted avg       1.00      0.99      1.00     56960\n"
+    },
+    {
+        "max_depth": 4,
+        "n_estimators": 25,
+        "confusion_matrix": "[[56583   287]\n [   14    76]]",
+        "classification_report": "              precision    recall  f1-score   support\n\n          -1       1.00      0.99      1.00     56870\n           1       0.21      0.84      0.34        90\n\n    accuracy                           0.99     56960\n   macro avg       0.60      0.92      0.67     56960\nweighted avg       1.00      0.99      1.00     56960\n"
+    },
+    {
+        "max_depth": 4,
+        "n_estimators": 30,
+        "confusion_matrix": "[[56558   312]\n [   14    76]]",
+        "classification_report": "              precision    recall  f1-score   support\n\n          -1       1.00      0.99      1.00     56870\n           1       0.20      0.84      0.32        90\n\n    accuracy                           0.99     56960\n   macro avg       0.60      0.92      0.66     56960\nweighted avg       1.00      0.99      1.00     56960\n"
+    },
+    {
+        "max_depth": 4,
+        "n_estimators": 35,
+        "confusion_matrix": "[[56547   323]\n [   14    76]]",
+        "classification_report": "              precision    recall  f1-score   support\n\n          -1       1.00      0.99      1.00     56870\n           1       0.19      0.84      0.31        90\n\n    accuracy                           0.99     56960\n   macro avg       0.60      0.92      0.65     56960\nweighted avg       1.00      0.99      1.00     56960\n"
+    },
+    {
+        "max_depth": 4,
+        "n_estimators": 40,
+        "confusion_matrix": "[[56552   318]\n [   14    76]]",
+        "classification_report": "              precision    recall  f1-score   support\n\n          -1       1.00      0.99      1.00     56870\n           1       0.19      0.84      0.31        90\n\n    accuracy                           0.99     56960\n   macro avg       0.60      0.92      0.66     56960\nweighted avg       1.00      0.99      1.00     56960\n"
+    },
+    {
+        "max_depth": 4,
+        "n_estimators": 45,
+        "confusion_matrix": "[[56546   324]\n [   13    77]]",
+        "classification_report": "              precision    recall  f1-score   support\n\n          -1       1.00      0.99      1.00     56870\n           1       0.19      0.86      0.31        90\n\n    accuracy                           0.99     56960\n   macro avg       0.60      0.92      0.66     56960\nweighted avg       1.00      0.99      1.00     56960\n"
+    },
+    {
+        "max_depth": 4,
+        "n_estimators": 50,
+        "confusion_matrix": "[[56558   312]\n [   14    76]]",
+        "classification_report": "              precision    recall  f1-score   support\n\n          -1       1.00      0.99      1.00     56870\n           1       0.20      0.84      0.32        90\n\n    accuracy                           0.99     56960\n   macro avg       0.60      0.92      0.66     56960\nweighted avg       1.00      0.99      1.00     56960\n"
+    },
+    {
+        "max_depth": 5,
+        "n_estimators": 5,
+        "confusion_matrix": "[[56707   163]\n [   15    75]]",
+        "classification_report": "              precision    recall  f1-score   support\n\n          -1       1.00      1.00      1.00     56870\n           1       0.32      0.83      0.46        90\n\n    accuracy                           1.00     56960\n   macro avg       0.66      0.92      0.73     56960\nweighted avg       1.00      1.00      1.00     56960\n"
+    },
+    {
+        "max_depth": 5,
+        "n_estimators": 10,
+        "confusion_matrix": "[[56702   168]\n [   14    76]]",
+        "classification_report": "              precision    recall  f1-score   support\n\n          -1       1.00      1.00      1.00     56870\n           1       0.31      0.84      0.46        90\n\n    accuracy                           1.00     56960\n   macro avg       0.66      0.92      0.73     56960\nweighted avg       1.00      1.00      1.00     56960\n"
+    },
+    {
+        "max_depth": 5,
+        "n_estimators": 15,
+        "confusion_matrix": "[[56727   143]\n [   14    76]]",
+        "classification_report": "              precision    recall  f1-score   support\n\n          -1       1.00      1.00      1.00     56870\n           1       0.35      0.84      0.49        90\n\n    accuracy                           1.00     56960\n   macro avg       0.67      0.92      0.75     56960\nweighted avg       1.00      1.00      1.00     56960\n"
+    },
+    {
+        "max_depth": 5,
+        "n_estimators": 20,
+        "confusion_matrix": "[[56691   179]\n [   14    76]]",
+        "classification_report": "              precision    recall  f1-score   support\n\n          -1       1.00      1.00      1.00     56870\n           1       0.30      0.84      0.44        90\n\n    accuracy                           1.00     56960\n   macro avg       0.65      0.92      0.72     56960\nweighted avg       1.00      1.00      1.00     56960\n"
+    },
+    {
+        "max_depth": 5,
+        "n_estimators": 25,
+        "confusion_matrix": "[[56692   178]\n [   14    76]]",
+        "classification_report": "              precision    recall  f1-score   support\n\n          -1       1.00      1.00      1.00     56870\n           1       0.30      0.84      0.44        90\n\n    accuracy                           1.00     56960\n   macro avg       0.65      0.92      0.72     56960\nweighted avg       1.00      1.00      1.00     56960\n"
+    },
+    {
+        "max_depth": 5,
+        "n_estimators": 30,
+        "confusion_matrix": "[[56708   162]\n [   14    76]]",
+        "classification_report": "              precision    recall  f1-score   support\n\n          -1       1.00      1.00      1.00     56870\n           1       0.32      0.84      0.46        90\n\n    accuracy                           1.00     56960\n   macro avg       0.66      0.92      0.73     56960\nweighted avg       1.00      1.00      1.00     56960\n"
+    },
+    {
+        "max_depth": 5,
+        "n_estimators": 35,
+        "confusion_matrix": "[[56702   168]\n [   14    76]]",
+        "classification_report": "              precision    recall  f1-score   support\n\n          -1       1.00      1.00      1.00     56870\n           1       0.31      0.84      0.46        90\n\n    accuracy                           1.00     56960\n   macro avg       0.66      0.92      0.73     56960\nweighted avg       1.00      1.00      1.00     56960\n"
+    },
+    {
+        "max_depth": 5,
+        "n_estimators": 40,
+        "confusion_matrix": "[[56717   153]\n [   14    76]]",
+        "classification_report": "              precision    recall  f1-score   support\n\n          -1       1.00      1.00      1.00     56870\n           1       0.33      0.84      0.48        90\n\n    accuracy                           1.00     56960\n   macro avg       0.67      0.92      0.74     56960\nweighted avg       1.00      1.00      1.00     56960\n"
+    },
+    {
+        "max_depth": 5,
+        "n_estimators": 45,
+        "confusion_matrix": "[[56697   173]\n [   14    76]]",
+        "classification_report": "              precision    recall  f1-score   support\n\n          -1       1.00      1.00      1.00     56870\n           1       0.31      0.84      0.45        90\n\n    accuracy                           1.00     56960\n   macro avg       0.65      0.92      0.72     56960\nweighted avg       1.00      1.00      1.00     56960\n"
+    },
+    {
+        "max_depth": 5,
+        "n_estimators": 50,
+        "confusion_matrix": "[[56709   161]\n [   14    76]]",
+        "classification_report": "              precision    recall  f1-score   support\n\n          -1       1.00      1.00      1.00     56870\n           1       0.32      0.84      0.46        90\n\n    accuracy                           1.00     56960\n   macro avg       0.66      0.92      0.73     56960\nweighted avg       1.00      1.00      1.00     56960\n"
+    },
+    {
+        "max_depth": 6,
+        "n_estimators": 5,
+        "confusion_matrix": "[[56695   175]\n [   16    74]]",
+        "classification_report": "              precision    recall  f1-score   support\n\n          -1       1.00      1.00      1.00     56870\n           1       0.30      0.82      0.44        90\n\n    accuracy                           1.00     56960\n   macro avg       0.65      0.91      0.72     56960\nweighted avg       1.00      1.00      1.00     56960\n"
+    },
+    {
+        "max_depth": 6,
+        "n_estimators": 10,
+        "confusion_matrix": "[[56767   103]\n [   14    76]]",
+        "classification_report": "              precision    recall  f1-score   support\n\n          -1       1.00      1.00      1.00     56870\n           1       0.42      0.84      0.57        90\n\n    accuracy                           1.00     56960\n   macro avg       0.71      0.92      0.78     56960\nweighted avg       1.00      1.00      1.00     56960\n"
+    },
+    {
+        "max_depth": 6,
+        "n_estimators": 15,
+        "confusion_matrix": "[[56799    71]\n [   13    77]]",
+        "classification_report": "              precision    recall  f1-score   support\n\n          -1       1.00      1.00      1.00     56870\n           1       0.52      0.86      0.65        90\n\n    accuracy                           1.00     56960\n   macro avg       0.76      0.93      0.82     56960\nweighted avg       1.00      1.00      1.00     56960\n"
+    },
+    {
+        "max_depth": 6,
+        "n_estimators": 20,
+        "confusion_matrix": "[[56800    70]\n [   14    76]]",
+        "classification_report": "              precision    recall  f1-score   support\n\n          -1       1.00      1.00      1.00     56870\n           1       0.52      0.84      0.64        90\n\n    accuracy                           1.00     56960\n   macro avg       0.76      0.92      0.82     56960\nweighted avg       1.00      1.00      1.00     56960\n"
+    },
+    {
+        "max_depth": 6,
+        "n_estimators": 25,
+        "confusion_matrix": "[[56805    65]\n [   14    76]]",
+        "classification_report": "              precision    recall  f1-score   support\n\n          -1       1.00      1.00      1.00     56870\n           1       0.54      0.84      0.66        90\n\n    accuracy                           1.00     56960\n   macro avg       0.77      0.92      0.83     56960\nweighted avg       1.00      1.00      1.00     56960\n"
+    },
+    {
+        "max_depth": 6,
+        "n_estimators": 30,
+        "confusion_matrix": "[[56790    80]\n [   14    76]]",
+        "classification_report": "              precision    recall  f1-score   support\n\n          -1       1.00      1.00      1.00     56870\n           1       0.49      0.84      0.62        90\n\n    accuracy                           1.00     56960\n   macro avg       0.74      0.92      0.81     56960\nweighted avg       1.00      1.00      1.00     56960\n"
+    },
+    {
+        "max_depth": 6,
+        "n_estimators": 35,
+        "confusion_matrix": "[[56782    88]\n [   15    75]]",
+        "classification_report": "              precision    recall  f1-score   support\n\n          -1       1.00      1.00      1.00     56870\n           1       0.46      0.83      0.59        90\n\n    accuracy                           1.00     56960\n   macro avg       0.73      0.92      0.80     56960\nweighted avg       1.00      1.00      1.00     56960\n"
+    },
+    {
+        "max_depth": 6,
+        "n_estimators": 40,
+        "confusion_matrix": "[[56791    79]\n [   15    75]]",
+        "classification_report": "              precision    recall  f1-score   support\n\n          -1       1.00      1.00      1.00     56870\n           1       0.49      0.83      0.61        90\n\n    accuracy                           1.00     56960\n   macro avg       0.74      0.92      0.81     56960\nweighted avg       1.00      1.00      1.00     56960\n"
+    },
+    {
+        "max_depth": 6,
+        "n_estimators": 45,
+        "confusion_matrix": "[[56786    84]\n [   15    75]]",
+        "classification_report": "              precision    recall  f1-score   support\n\n          -1       1.00      1.00      1.00     56870\n           1       0.47      0.83      0.60        90\n\n    accuracy                           1.00     56960\n   macro avg       0.74      0.92      0.80     56960\nweighted avg       1.00      1.00      1.00     56960\n"
+    },
+    {
+        "max_depth": 6,
+        "n_estimators": 50,
+        "confusion_matrix": "[[56791    79]\n [   15    75]]",
+        "classification_report": "              precision    recall  f1-score   support\n\n          -1       1.00      1.00      1.00     56870\n           1       0.49      0.83      0.61        90\n\n    accuracy                           1.00     56960\n   macro avg       0.74      0.92      0.81     56960\nweighted avg       1.00      1.00      1.00     56960\n"
+    },
+    {
+        "max_depth": 7,
+        "n_estimators": 5,
+        "confusion_matrix": "[[56807    63]\n [   16    74]]",
+        "classification_report": "              precision    recall  f1-score   support\n\n          -1       1.00      1.00      1.00     56870\n           1       0.54      0.82      0.65        90\n\n    accuracy                           1.00     56960\n   macro avg       0.77      0.91      0.83     56960\nweighted avg       1.00      1.00      1.00     56960\n"
+    },
+    {
+        "max_depth": 7,
+        "n_estimators": 10,
+        "confusion_matrix": "[[56837    33]\n [   16    74]]",
+        "classification_report": "              precision    recall  f1-score   support\n\n          -1       1.00      1.00      1.00     56870\n           1       0.69      0.82      0.75        90\n\n    accuracy                           1.00     56960\n   macro avg       0.85      0.91      0.88     56960\nweighted avg       1.00      1.00      1.00     56960\n"
+    },
+    {
+        "max_depth": 7,
+        "n_estimators": 15,
+        "confusion_matrix": "[[56831    39]\n [   16    74]]",
+        "classification_report": "              precision    recall  f1-score   support\n\n          -1       1.00      1.00      1.00     56870\n           1       0.65      0.82      0.73        90\n\n    accuracy                           1.00     56960\n   macro avg       0.83      0.91      0.86     56960\nweighted avg       1.00      1.00      1.00     56960\n"
+    },
+    {
+        "max_depth": 7,
+        "n_estimators": 20,
+        "confusion_matrix": "[[56821    49]\n [   16    74]]",
+        "classification_report": "              precision    recall  f1-score   support\n\n          -1       1.00      1.00      1.00     56870\n           1       0.60      0.82      0.69        90\n\n    accuracy                           1.00     56960\n   macro avg       0.80      0.91      0.85     56960\nweighted avg       1.00      1.00      1.00     56960\n"
+    },
+    {
+        "max_depth": 7,
+        "n_estimators": 25,
+        "confusion_matrix": "[[56825    45]\n [   17    73]]",
+        "classification_report": "              precision    recall  f1-score   support\n\n          -1       1.00      1.00      1.00     56870\n           1       0.62      0.81      0.70        90\n\n    accuracy                           1.00     56960\n   macro avg       0.81      0.91      0.85     56960\nweighted avg       1.00      1.00      1.00     56960\n"
+    },
+    {
+        "max_depth": 7,
+        "n_estimators": 30,
+        "confusion_matrix": "[[56822    48]\n [   17    73]]",
+        "classification_report": "              precision    recall  f1-score   support\n\n          -1       1.00      1.00      1.00     56870\n           1       0.60      0.81      0.69        90\n\n    accuracy                           1.00     56960\n   macro avg       0.80      0.91      0.85     56960\nweighted avg       1.00      1.00      1.00     56960\n"
+    },
+    {
+        "max_depth": 7,
+        "n_estimators": 35,
+        "confusion_matrix": "[[56821    49]\n [   17    73]]",
+        "classification_report": "              precision    recall  f1-score   support\n\n          -1       1.00      1.00      1.00     56870\n           1       0.60      0.81      0.69        90\n\n    accuracy                           1.00     56960\n   macro avg       0.80      0.91      0.84     56960\nweighted avg       1.00      1.00      1.00     56960\n"
+    },
+    {
+        "max_depth": 7,
+        "n_estimators": 40,
+        "confusion_matrix": "[[56821    49]\n [   17    73]]",
+        "classification_report": "              precision    recall  f1-score   support\n\n          -1       1.00      1.00      1.00     56870\n           1       0.60      0.81      0.69        90\n\n    accuracy                           1.00     56960\n   macro avg       0.80      0.91      0.84     56960\nweighted avg       1.00      1.00      1.00     56960\n"
+    },
+    {
+        "max_depth": 7,
+        "n_estimators": 45,
+        "confusion_matrix": "[[56820    50]\n [   17    73]]",
+        "classification_report": "              precision    recall  f1-score   support\n\n          -1       1.00      1.00      1.00     56870\n           1       0.59      0.81      0.69        90\n\n    accuracy                           1.00     56960\n   macro avg       0.80      0.91      0.84     56960\nweighted avg       1.00      1.00      1.00     56960\n"
+    },
+    {
+        "max_depth": 7,
+        "n_estimators": 50,
+        "confusion_matrix": "[[56825    45]\n [   17    73]]",
+        "classification_report": "              precision    recall  f1-score   support\n\n          -1       1.00      1.00      1.00     56870\n           1       0.62      0.81      0.70        90\n\n    accuracy                           1.00     56960\n   macro avg       0.81      0.91      0.85     56960\nweighted avg       1.00      1.00      1.00     56960\n"
+    },
+    {
+        "max_depth": 8,
+        "n_estimators": 5,
+        "confusion_matrix": "[[56795    75]\n [   17    73]]",
+        "classification_report": "              precision    recall  f1-score   support\n\n          -1       1.00      1.00      1.00     56870\n           1       0.49      0.81      0.61        90\n\n    accuracy                           1.00     56960\n   macro avg       0.75      0.90      0.81     56960\nweighted avg       1.00      1.00      1.00     56960\n"
+    },
+    {
+        "max_depth": 8,
+        "n_estimators": 10,
+        "confusion_matrix": "[[56839    31]\n [   17    73]]",
+        "classification_report": "              precision    recall  f1-score   support\n\n          -1       1.00      1.00      1.00     56870\n           1       0.70      0.81      0.75        90\n\n    accuracy                           1.00     56960\n   macro avg       0.85      0.91      0.88     56960\nweighted avg       1.00      1.00      1.00     56960\n"
+    },
+    {
+        "max_depth": 8,
+        "n_estimators": 15,
+        "confusion_matrix": "[[56843    27]\n [   17    73]]",
+        "classification_report": "              precision    recall  f1-score   support\n\n          -1       1.00      1.00      1.00     56870\n           1       0.73      0.81      0.77        90\n\n    accuracy                           1.00     56960\n   macro avg       0.86      0.91      0.88     56960\nweighted avg       1.00      1.00      1.00     56960\n"
+    },
+    {
+        "max_depth": 8,
+        "n_estimators": 20,
+        "confusion_matrix": "[[56841    29]\n [   17    73]]",
+        "classification_report": "              precision    recall  f1-score   support\n\n          -1       1.00      1.00      1.00     56870\n           1       0.72      0.81      0.76        90\n\n    accuracy                           1.00     56960\n   macro avg       0.86      0.91      0.88     56960\nweighted avg       1.00      1.00      1.00     56960\n"
+    },
+    {
+        "max_depth": 8,
+        "n_estimators": 25,
+        "confusion_matrix": "[[56843    27]\n [   17    73]]",
+        "classification_report": "              precision    recall  f1-score   support\n\n          -1       1.00      1.00      1.00     56870\n           1       0.73      0.81      0.77        90\n\n    accuracy                           1.00     56960\n   macro avg       0.86      0.91      0.88     56960\nweighted avg       1.00      1.00      1.00     56960\n"
+    },
+    {
+        "max_depth": 8,
+        "n_estimators": 30,
+        "confusion_matrix": "[[56838    32]\n [   17    73]]",
+        "classification_report": "              precision    recall  f1-score   support\n\n          -1       1.00      1.00      1.00     56870\n           1       0.70      0.81      0.75        90\n\n    accuracy                           1.00     56960\n   macro avg       0.85      0.91      0.87     56960\nweighted avg       1.00      1.00      1.00     56960\n"
+    },
+    {
+        "max_depth": 8,
+        "n_estimators": 35,
+        "confusion_matrix": "[[56835    35]\n [   17    73]]",
+        "classification_report": "              precision    recall  f1-score   support\n\n          -1       1.00      1.00      1.00     56870\n           1       0.68      0.81      0.74        90\n\n    accuracy                           1.00     56960\n   macro avg       0.84      0.91      0.87     56960\nweighted avg       1.00      1.00      1.00     56960\n"
+    },
+    {
+        "max_depth": 8,
+        "n_estimators": 40,
+        "confusion_matrix": "[[56839    31]\n [   17    73]]",
+        "classification_report": "              precision    recall  f1-score   support\n\n          -1       1.00      1.00      1.00     56870\n           1       0.70      0.81      0.75        90\n\n    accuracy                           1.00     56960\n   macro avg       0.85      0.91      0.88     56960\nweighted avg       1.00      1.00      1.00     56960\n"
+    },
+    {
+        "max_depth": 8,
+        "n_estimators": 45,
+        "confusion_matrix": "[[56836    34]\n [   17    73]]",
+        "classification_report": "              precision    recall  f1-score   support\n\n          -1       1.00      1.00      1.00     56870\n           1       0.68      0.81      0.74        90\n\n    accuracy                           1.00     56960\n   macro avg       0.84      0.91      0.87     56960\nweighted avg       1.00      1.00      1.00     56960\n"
+    },
+    {
+        "max_depth": 8,
+        "n_estimators": 50,
+        "confusion_matrix": "[[56843    27]\n [   17    73]]",
+        "classification_report": "              precision    recall  f1-score   support\n\n          -1       1.00      1.00      1.00     56870\n           1       0.73      0.81      0.77        90\n\n    accuracy                           1.00     56960\n   macro avg       0.86      0.91      0.88     56960\nweighted avg       1.00      1.00      1.00     56960\n"
+    },
+    {
+        "max_depth": 9,
+        "n_estimators": 5,
+        "confusion_matrix": "[[56817    53]\n [   17    73]]",
+        "classification_report": "              precision    recall  f1-score   support\n\n          -1       1.00      1.00      1.00     56870\n           1       0.58      0.81      0.68        90\n\n    accuracy                           1.00     56960\n   macro avg       0.79      0.91      0.84     56960\nweighted avg       1.00      1.00      1.00     56960\n"
+    },
+    {
+        "max_depth": 9,
+        "n_estimators": 10,
+        "confusion_matrix": "[[56850    20]\n [   17    73]]",
+        "classification_report": "              precision    recall  f1-score   support\n\n          -1       1.00      1.00      1.00     56870\n           1       0.78      0.81      0.80        90\n\n    accuracy                           1.00     56960\n   macro avg       0.89      0.91      0.90     56960\nweighted avg       1.00      1.00      1.00     56960\n"
+    },
+    {
+        "max_depth": 9,
+        "n_estimators": 15,
+        "confusion_matrix": "[[56851    19]\n [   17    73]]",
+        "classification_report": "              precision    recall  f1-score   support\n\n          -1       1.00      1.00      1.00     56870\n           1       0.79      0.81      0.80        90\n\n    accuracy                           1.00     56960\n   macro avg       0.90      0.91      0.90     56960\nweighted avg       1.00      1.00      1.00     56960\n"
+    },
+    {
+        "max_depth": 9,
+        "n_estimators": 20,
+        "confusion_matrix": "[[56848    22]\n [   17    73]]",
+        "classification_report": "              precision    recall  f1-score   support\n\n          -1       1.00      1.00      1.00     56870\n           1       0.77      0.81      0.79        90\n\n    accuracy                           1.00     56960\n   macro avg       0.88      0.91      0.89     56960\nweighted avg       1.00      1.00      1.00     56960\n"
+    },
+    {
+        "max_depth": 9,
+        "n_estimators": 25,
+        "confusion_matrix": "[[56850    20]\n [   17    73]]",
+        "classification_report": "              precision    recall  f1-score   support\n\n          -1       1.00      1.00      1.00     56870\n           1       0.78      0.81      0.80        90\n\n    accuracy                           1.00     56960\n   macro avg       0.89      0.91      0.90     56960\nweighted avg       1.00      1.00      1.00     56960\n"
+    },
+    {
+        "max_depth": 9,
+        "n_estimators": 30,
+        "confusion_matrix": "[[56845    25]\n [   17    73]]",
+        "classification_report": "              precision    recall  f1-score   support\n\n          -1       1.00      1.00      1.00     56870\n           1       0.74      0.81      0.78        90\n\n    accuracy                           1.00     56960\n   macro avg       0.87      0.91      0.89     56960\nweighted avg       1.00      1.00      1.00     56960\n"
+    },
+    {
+        "max_depth": 9,
+        "n_estimators": 35,
+        "confusion_matrix": "[[56841    29]\n [   17    73]]",
+        "classification_report": "              precision    recall  f1-score   support\n\n          -1       1.00      1.00      1.00     56870\n           1       0.72      0.81      0.76        90\n\n    accuracy                           1.00     56960\n   macro avg       0.86      0.91      0.88     56960\nweighted avg       1.00      1.00      1.00     56960\n"
+    },
+    {
+        "max_depth": 9,
+        "n_estimators": 40,
+        "confusion_matrix": "[[56847    23]\n [   17    73]]",
+        "classification_report": "              precision    recall  f1-score   support\n\n          -1       1.00      1.00      1.00     56870\n           1       0.76      0.81      0.78        90\n\n    accuracy                           1.00     56960\n   macro avg       0.88      0.91      0.89     56960\nweighted avg       1.00      1.00      1.00     56960\n"
+    },
+    {
+        "max_depth": 9,
+        "n_estimators": 45,
+        "confusion_matrix": "[[56846    24]\n [   17    73]]",
+        "classification_report": "              precision    recall  f1-score   support\n\n          -1       1.00      1.00      1.00     56870\n           1       0.75      0.81      0.78        90\n\n    accuracy                           1.00     56960\n   macro avg       0.88      0.91      0.89     56960\nweighted avg       1.00      1.00      1.00     56960\n"
+    },
+    {
+        "max_depth": 9,
+        "n_estimators": 50,
+        "confusion_matrix": "[[56846    24]\n [   17    73]]",
+        "classification_report": "              precision    recall  f1-score   support\n\n          -1       1.00      1.00      1.00     56870\n           1       0.75      0.81      0.78        90\n\n    accuracy                           1.00     56960\n   macro avg       0.88      0.91      0.89     56960\nweighted avg       1.00      1.00      1.00     56960\n"
+    },
+    {
+        "max_depth": 10,
+        "n_estimators": 5,
+        "confusion_matrix": "[[56842    28]\n [   17    73]]",
+        "classification_report": "              precision    recall  f1-score   support\n\n          -1       1.00      1.00      1.00     56870\n           1       0.72      0.81      0.76        90\n\n    accuracy                           1.00     56960\n   macro avg       0.86      0.91      0.88     56960\nweighted avg       1.00      1.00      1.00     56960\n"
+    },
+    {
+        "max_depth": 10,
+        "n_estimators": 10,
+        "confusion_matrix": "[[56848    22]\n [   18    72]]",
+        "classification_report": "              precision    recall  f1-score   support\n\n          -1       1.00      1.00      1.00     56870\n           1       0.77      0.80      0.78        90\n\n    accuracy                           1.00     56960\n   macro avg       0.88      0.90      0.89     56960\nweighted avg       1.00      1.00      1.00     56960\n"
+    },
+    {
+        "max_depth": 10,
+        "n_estimators": 15,
+        "confusion_matrix": "[[56849    21]\n [   17    73]]",
+        "classification_report": "              precision    recall  f1-score   support\n\n          -1       1.00      1.00      1.00     56870\n           1       0.78      0.81      0.79        90\n\n    accuracy                           1.00     56960\n   macro avg       0.89      0.91      0.90     56960\nweighted avg       1.00      1.00      1.00     56960\n"
+    },
+    {
+        "max_depth": 10,
+        "n_estimators": 20,
+        "confusion_matrix": "[[56857    13]\n [   17    73]]",
+        "classification_report": "              precision    recall  f1-score   support\n\n          -1       1.00      1.00      1.00     56870\n           1       0.85      0.81      0.83        90\n\n    accuracy                           1.00     56960\n   macro avg       0.92      0.91      0.91     56960\nweighted avg       1.00      1.00      1.00     56960\n"
+    },
+    {
+        "max_depth": 10,
+        "n_estimators": 25,
+        "confusion_matrix": "[[56853    17]\n [   17    73]]",
+        "classification_report": "              precision    recall  f1-score   support\n\n          -1       1.00      1.00      1.00     56870\n           1       0.81      0.81      0.81        90\n\n    accuracy                           1.00     56960\n   macro avg       0.91      0.91      0.91     56960\nweighted avg       1.00      1.00      1.00     56960\n"
+    },
+    {
+        "max_depth": 10,
+        "n_estimators": 30,
+        "confusion_matrix": "[[56853    17]\n [   17    73]]",
+        "classification_report": "              precision    recall  f1-score   support\n\n          -1       1.00      1.00      1.00     56870\n           1       0.81      0.81      0.81        90\n\n    accuracy                           1.00     56960\n   macro avg       0.91      0.91      0.91     56960\nweighted avg       1.00      1.00      1.00     56960\n"
+    },
+    {
+        "max_depth": 10,
+        "n_estimators": 35,
+        "confusion_matrix": "[[56850    20]\n [   17    73]]",
+        "classification_report": "              precision    recall  f1-score   support\n\n          -1       1.00      1.00      1.00     56870\n           1       0.78      0.81      0.80        90\n\n    accuracy                           1.00     56960\n   macro avg       0.89      0.91      0.90     56960\nweighted avg       1.00      1.00      1.00     56960\n"
+    },
+    {
+        "max_depth": 10,
+        "n_estimators": 40,
+        "confusion_matrix": "[[56855    15]\n [   17    73]]",
+        "classification_report": "              precision    recall  f1-score   support\n\n          -1       1.00      1.00      1.00     56870\n           1       0.83      0.81      0.82        90\n\n    accuracy                           1.00     56960\n   macro avg       0.91      0.91      0.91     56960\nweighted avg       1.00      1.00      1.00     56960\n"
+    },
+    {
+        "max_depth": 10,
+        "n_estimators": 45,
+        "confusion_matrix": "[[56853    17]\n [   17    73]]",
+        "classification_report": "              precision    recall  f1-score   support\n\n          -1       1.00      1.00      1.00     56870\n           1       0.81      0.81      0.81        90\n\n    accuracy                           1.00     56960\n   macro avg       0.91      0.91      0.91     56960\nweighted avg       1.00      1.00      1.00     56960\n"
+    },
+    {
+        "max_depth": 10,
+        "n_estimators": 50,
+        "confusion_matrix": "[[56856    14]\n [   17    73]]",
+        "classification_report": "              precision    recall  f1-score   support\n\n          -1       1.00      1.00      1.00     56870\n           1       0.84      0.81      0.82        90\n\n    accuracy                           1.00     56960\n   macro avg       0.92      0.91      0.91     56960\nweighted avg       1.00      1.00      1.00     56960\n"
+    }
+]
